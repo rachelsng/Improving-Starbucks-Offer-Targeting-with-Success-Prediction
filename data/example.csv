@@ -1,0 +1,9 @@
+﻿promo_name,age,income,member_duration,reward,difficulty,days,channel_web,channel_mobile,channel_social,gender_dum_M,offer_type_dum_discount
+bogo-4,77,75000,338,10,10,15,0,1,1,1,0
+bogo-3,77,75000,338,10,10,15,1,1,1,1,0
+bogo-2,77,75000,338,5,5,15,1,1,0,1,0
+disc-4,77,75000,338,5,20,15,1,0,0,1,1
+disc-3,77,75000,338,3,7,15,1,1,1,1,1
+disc-2,77,75000,338,2,10,15,1,1,1,1,1
+bogo-1,77,75000,338,5,5,15,1,1,1,1,0
+disc-1,77,75000,338,2,10,15,1,1,0,1,1
