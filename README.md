@@ -55,9 +55,9 @@ It consists of 3 csv files:
 - Random Forest had the best performance, with 0.5 r-squared.
 
 <b>Offer Ranking</b>
-1. Demographic and promotions data first fed into the classifier to get $P(Offer Success)$
-2. The same features are then fed to the regressor to get $Expected Spend$
-3. The promotions are then ranked by $P(Offer Success) * 𝐸𝑥𝑝𝑒𝑐𝑡𝑒𝑑𝑆𝑝𝑒𝑛𝑑$
+1. Demographic and promotions data first fed into the classifier to get *P(Offer Success)*
+2. The same features are then fed to the regressor to get *Expected Spend*
+3. The promotions are then ranked by *P(Offer Success) * 𝐸𝑥𝑝𝑒𝑐𝑡𝑒𝑑𝑆𝑝𝑒𝑛𝑑*
 
 *Packages used: sklearn, xgboost*
 
