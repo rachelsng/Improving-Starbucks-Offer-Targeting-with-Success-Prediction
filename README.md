@@ -1,4 +1,4 @@
-# Improving Starbucks Offer Targeting with Redemption Prediction
+# Improving Starbucks Offer Targeting with Offer Success Prediction
 
 
 
