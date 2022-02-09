@@ -68,5 +68,9 @@ It consists of 3 csv files:
 - *data*: 3 original CSV files, 1 preprocessed CSV file and 1 example to demonstrate model application
 - *images*: Supporting images
 
+## Collaborators
+
+This project was co-written with Toh Pin Xuan (@tohpinxuan).
+
 ![](./images/coffee.jpg)
 *Photo by Fahmi Fakhrudin from Unsplash*
